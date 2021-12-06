@@ -1,0 +1,194 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	padding: 0;
+	margin: 0;
+	font-size: 15px;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900px;
+	text-align: center;
+
+}
+
+h1 {
+	text-align: left;
+}
+ 
+ p {
+ 	line-height: 1.6em;
+
+
+ }
+
+
+.container {
+	width: 1170px;
+	margin: 0 auto;
+
+}
+
+.header{
+	background: rgba(77,192,254,1);
+	background: -moz-linear-gradient(left, rgba(77,192,254,1) 0%, rgba(55,144,217,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(77,192,254,1)), color-stop(100%, rgba(55,144,217,1)));
+	background: -webkit-linear-gradient(left, rgba(77,192,254,1) 0%, rgba(55,144,217,1) 100%);
+	background: -o-linear-gradient(left, rgba(77,192,254,1) 0%, rgba(55,144,217,1) 100%);
+	background: -ms-linear-gradient(left, rgba(77,192,254,1) 0%, rgba(55,144,217,1) 100%);
+	background: linear-gradient(to right, rgba(77,192,254,1) 0%, rgba(55,144,217,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4dc0fe', endColorstr='#3790d9', GradientType=1 );
+	padding: 100px;
+	padding-bottom: 144px;
+	color: #ffffff;
+
+	}
+
+	.wrapper {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.offer {
+		margin-top: 171px;
+		width: 527px;
+	}
+
+	.title {
+		font-size: 36px;
+		font-weight: 400;
+			}
+
+	.title span {
+		font-size: 56px;
+
+	}
+
+	.intro {
+		margin-top: 20px;
+		margin-bottom: 37px;
+		width: 396px;
+	}
+
+	.btn {
+		font-family: 'Montserrat', sans-serif;
+		background: #ffd429;
+		color: #333333;
+		display: block;
+		width: 205px;
+		padding: 20px 0;
+		text-align: center;
+		font-weight: bold;
+		text-decoration: none;
+		transition: all 0.5s ease;
+		}
+
+		.btn:hover {
+			background: #bd9f29;
+		}
+
+		.image {
+			margin-top: 70px;
+		}
+
+		.learn {
+			padding-top: 118px;
+			padding-bottom: 125px
+
+
+		}
+
+		.section-title {
+			font-size: 30px;
+
+		}
+
+		.resultation {
+			display: flex;
+			justify-content: space-between;
+
+		}
+
+		.time {
+
+			width: 250px;
+			background: url('../img/icon-time.jpg') no-repeat center;
+			margin-top: 20px;
+			text-align: center;
+
+		}
+
+		.time-title {
+			font-size: 18px;
+			padding-top: 185px;
+		}
+
+		.time-text {
+			margin-top: 10px;	
+		}
+
+		.time-free {
+			width: 320px;
+			background: url('../img/icon-travel.jpg') no-repeat center;
+
+		}
+
+		.time-value {
+			width: 326px;
+			background: url('../img/icon-values.jpg') no-repeat center;
+
+		}
+
+		.container {
+		
+
+			
+		}
+
+
+		.form {
+			background: #ecf3f8;
+			padding-top: 111px;
+			padding-bottom: 124px;
+			
+			
+		}
+
+
+
+		.form-content {
+			display: flex;
+			flex-direction: column;
+			width: 345px;
+			margin-top: 65px;
+			
+
+
+			
+		}
+
+		.input-field {
+			border: 1px solid bbbbbb;
+			font-size: 15px;
+			height: 46px;
+			padding-left: 23px;
+			margin-bottom: 15px;
+
+		}
+
+		.btn-form {
+		width: 345px;	
+
+		}
+
+		.footer {
+			background: #164d7a;
+			padding-top: 65px;
+			padding-bottom: 65px;
+			text-align: center;
+			color: #ffffff;
+
+		}
+
